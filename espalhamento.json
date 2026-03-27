@@ -1,0 +1,23 @@
+[
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-19 22:28:55",
+    "file": "espalhamento.js",
+    "line": 2,
+    "column": 1
+  },
+  {
+    "keyword": "Math",
+    "timestamp": "2026-03-19 22:29:13",
+    "file": "espalhamento.js",
+    "line": 2,
+    "column": 7
+  },
+  {
+    "keyword": "max",
+    "timestamp": "2026-03-19 22:29:21",
+    "file": "espalhamento.js",
+    "line": 2,
+    "column": 12
+  }
+]

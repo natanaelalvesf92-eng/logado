@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "Number",
+    "timestamp": "2026-02-24 21:58:12",
+    "file": "exercicio_02.js",
+    "line": 1,
+    "column": 10
+  },
+  {
+    "keyword": "parseFloat",
+    "timestamp": "2026-02-24 21:58:31",
+    "file": "exercicio_02.js",
+    "line": 1,
+    "column": 18
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-02-24 22:06:14",
+    "file": "exercicio_02.js",
+    "line": 5,
+    "column": 1
+  },
+  {
+    "keyword": "E",
+    "timestamp": "2026-02-24 22:06:37",
+    "file": "exercicio_02.js",
+    "line": 5,
+    "column": 15
+  },
+  {
+    "keyword": "E",
+    "timestamp": "2026-02-24 22:08:17",
+    "file": "exercicio_02.js",
+    "line": 5,
+    "column": 39
+  },
+  {
+    "keyword": "parseFloat",
+    "timestamp": "2026-02-24 22:13:12",
+    "file": "exercicio_02.js",
+    "line": 1,
+    "column": 13
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-02-24 22:13:23",
+    "file": "exercicio_02.js",
+    "line": 1,
+    "column": 13
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-02-24 22:13:39",
+    "file": "exercicio_02.js",
+    "line": 1,
+    "column": 23
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-02-24 22:14:37",
+    "file": "exercicio_02.js",
+    "line": 2,
+    "column": 1
+  },
+  {
+    "keyword": "else",
+    "timestamp": "2026-02-24 22:15:49",
+    "file": "exercicio_02.js",
+    "line": 4,
+    "column": 1
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "parseFloat",
+    "timestamp": "2026-02-24 21:33:38",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 12
+  },
+  {
+    "keyword": "let",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 1
+  },
+  {
+    "keyword": "Number",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 10
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 18
+  },
+  {
+    "keyword": "let",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 1
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 18
+  },
+  {
+    "keyword": "let",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 1
+  },
+  {
+    "keyword": "let",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 1,
+    "column": 1
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-02-24 22:11:26",
+    "file": "Exercicio_01.js",
+    "line": 5,
+    "column": 1
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-10 20:31:41",
+    "file": "Exercicio_01.js",
+    "line": 6,
+    "column": 1
+  }
+]

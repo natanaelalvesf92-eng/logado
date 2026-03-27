@@ -1,0 +1,37 @@
+[
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-19 22:14:28",
+    "file": "maiordetresmath.js",
+    "line": 1,
+    "column": 1
+  },
+  {
+    "keyword": "Math",
+    "timestamp": "2026-03-19 22:15:13",
+    "file": "maiordetresmath.js",
+    "line": 1,
+    "column": 7
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-19 22:16:45",
+    "file": "maiordetresmath.js",
+    "line": 2,
+    "column": 1
+  },
+  {
+    "keyword": "Math",
+    "timestamp": "2026-03-19 22:17:14",
+    "file": "maiordetresmath.js",
+    "line": 2,
+    "column": 7
+  },
+  {
+    "keyword": "max",
+    "timestamp": "2026-03-19 22:17:31",
+    "file": "maiordetresmath.js",
+    "line": 2,
+    "column": 12
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-12 21:44:02",
+    "file": "vetor par inpar.js",
+    "line": 4,
+    "column": 1
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-12 21:47:16",
+    "file": "vetor par inpar.js",
+    "line": 5,
+    "column": 5
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-12 21:59:07",
+    "file": "vetor par inpar.js",
+    "line": 2,
+    "column": 15
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-12 21:59:39",
+    "file": "vetor par inpar.js",
+    "line": 2,
+    "column": 24
+  },
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-12 22:01:25",
+    "file": "vetor par inpar.js",
+    "line": 4,
+    "column": 1
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-12 22:07:20",
+    "file": "vetor par inpar.js",
+    "line": 5,
+    "column": 16
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-12 22:07:36",
+    "file": "vetor par inpar.js",
+    "line": 5,
+    "column": 25
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-12 22:08:23",
+    "file": "vetor par inpar.js",
+    "line": 6,
+    "column": 5
+  },
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-12 22:18:05",
+    "file": "vetor par inpar.js",
+    "line": 16,
+    "column": 5
+  },
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-12 22:27:11",
+    "file": "vetor par inpar.js",
+    "line": 20,
+    "column": 5
+  }
+]

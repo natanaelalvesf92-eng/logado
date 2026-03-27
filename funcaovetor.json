@@ -1,0 +1,93 @@
+[
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 20:22:50",
+    "file": "funcaovetor.js",
+    "line": 2,
+    "column": 15
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 20:23:13",
+    "file": "funcaovetor.js",
+    "line": 2,
+    "column": 24
+  },
+  {
+    "keyword": "return",
+    "timestamp": "2026-03-26 20:28:19",
+    "file": "funcaovetor.js",
+    "line": 3,
+    "column": 1
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 20:31:20",
+    "file": "funcaovetor.js",
+    "line": 4,
+    "column": 5
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 20:33:59",
+    "file": "funcaovetor.js",
+    "line": 4,
+    "column": 15
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 20:34:10",
+    "file": "funcaovetor.js",
+    "line": 4,
+    "column": 24
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 20:35:24",
+    "file": "funcaovetor.js",
+    "line": 4,
+    "column": 12
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 20:48:59",
+    "file": "funcaovetor.js",
+    "line": 2,
+    "column": 13
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 20:49:13",
+    "file": "funcaovetor.js",
+    "line": 2,
+    "column": 22
+  },
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-26 20:50:58",
+    "file": "funcaovetor.js",
+    "line": 4,
+    "column": 5
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 20:52:59",
+    "file": "funcaovetor.js",
+    "line": 5,
+    "column": 19
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 20:53:14",
+    "file": "funcaovetor.js",
+    "line": 5,
+    "column": 28
+  },
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-26 21:17:37",
+    "file": "funcaovetor.js",
+    "line": 10,
+    "column": 5
+  }
+]

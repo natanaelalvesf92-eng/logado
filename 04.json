@@ -1,0 +1,44 @@
+[
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-03 20:55:47",
+    "file": "04.js",
+    "line": 1,
+    "column": 13
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-03 20:55:50",
+    "file": "04.js",
+    "line": 1,
+    "column": 22
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-03 20:56:15",
+    "file": "04.js",
+    "line": 3,
+    "column": 5
+  },
+  {
+    "keyword": "E",
+    "timestamp": "2026-03-03 20:56:18",
+    "file": "04.js",
+    "line": 3,
+    "column": 12
+  },
+  {
+    "keyword": "else",
+    "timestamp": "2026-03-03 20:56:30",
+    "file": "04.js",
+    "line": 4,
+    "column": 1
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-03 20:56:35",
+    "file": "04.js",
+    "line": 5,
+    "column": 5
+  }
+]

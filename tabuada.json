@@ -1,0 +1,23 @@
+[
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-13 19:57:22",
+    "file": "tabuada.js",
+    "line": 3,
+    "column": 14
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-13 19:57:35",
+    "file": "tabuada.js",
+    "line": 3,
+    "column": 23
+  },
+  {
+    "keyword": "for",
+    "timestamp": "2026-03-13 20:03:57",
+    "file": "tabuada.js",
+    "line": 7,
+    "column": 1
+  }
+]

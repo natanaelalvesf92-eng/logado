@@ -1,0 +1,114 @@
+[
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-25 21:39:27",
+    "file": "funcaosoma2.js",
+    "line": 4,
+    "column": 7
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-25 21:59:41",
+    "file": "funcaosoma2.js",
+    "line": 14,
+    "column": 13
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-25 22:02:39",
+    "file": "funcaosoma2.js",
+    "line": 15,
+    "column": 9
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-25 22:03:31",
+    "file": "funcaosoma2.js",
+    "line": 15,
+    "column": 18
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-25 22:04:21",
+    "file": "funcaosoma2.js",
+    "line": 16,
+    "column": 9
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-25 22:04:33",
+    "file": "funcaosoma2.js",
+    "line": 16,
+    "column": 18
+  },
+  {
+    "keyword": "switch",
+    "timestamp": "2026-03-25 22:05:19",
+    "file": "funcaosoma2.js",
+    "line": 17,
+    "column": 1
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-25 22:06:38",
+    "file": "funcaosoma2.js",
+    "line": 19,
+    "column": 9
+  },
+  {
+    "keyword": "break",
+    "timestamp": "2026-03-25 22:09:03",
+    "file": "funcaosoma2.js",
+    "line": 19,
+    "column": 27
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-25 22:13:51",
+    "file": "funcaosoma2.js",
+    "line": 21,
+    "column": 13
+  },
+  {
+    "keyword": "break",
+    "timestamp": "2026-03-25 22:17:11",
+    "file": "funcaosoma2.js",
+    "line": 21,
+    "column": 35
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-25 22:19:57",
+    "file": "funcaosoma2.js",
+    "line": 23,
+    "column": 17
+  },
+  {
+    "keyword": "break",
+    "timestamp": "2026-03-25 22:20:54",
+    "file": "funcaosoma2.js",
+    "line": 23,
+    "column": 43
+  },
+  {
+    "keyword": "toFixed",
+    "timestamp": "2026-03-25 22:24:04",
+    "file": "funcaosoma2.js",
+    "line": 25,
+    "column": 24
+  },
+  {
+    "keyword": "break",
+    "timestamp": "2026-03-25 22:24:40",
+    "file": "funcaosoma2.js",
+    "line": 25,
+    "column": 36
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-25 22:26:04",
+    "file": "funcaosoma2.js",
+    "line": 27,
+    "column": 9
+  }
+]

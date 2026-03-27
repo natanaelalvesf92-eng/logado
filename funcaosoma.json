@@ -1,0 +1,23 @@
+[
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-25 21:21:39",
+    "file": "funcaosoma.js",
+    "line": 4,
+    "column": 8
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-25 21:23:55",
+    "file": "funcaosoma.js",
+    "line": 5,
+    "column": 8
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-25 21:28:32",
+    "file": "funcaosoma.js",
+    "line": 5,
+    "column": 17
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-03 20:30:10",
+    "file": "exercicio_4.js",
+    "line": 2,
+    "column": 1
+  },
+  {
+    "keyword": "toExponential",
+    "timestamp": "2026-03-03 20:30:31",
+    "file": "exercicio_4.js",
+    "line": 2,
+    "column": 11
+  },
+  {
+    "keyword": "console",
+    "timestamp": "2026-03-03 20:37:59",
+    "file": "exercicio_4.js",
+    "line": 5,
+    "column": 5
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-03 20:42:25",
+    "file": "exercicio_4.js",
+    "line": 1,
+    "column": 6
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-03 20:42:42",
+    "file": "exercicio_4.js",
+    "line": 1,
+    "column": 16
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-03 20:51:25",
+    "file": "exercicio_4.js",
+    "line": 3,
+    "column": 1
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-03 20:52:05",
+    "file": "exercicio_4.js",
+    "line": 2,
+    "column": 1
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-03 20:52:25",
+    "file": "exercicio_4.js",
+    "line": 3,
+    "column": 5
+  },
+  {
+    "keyword": "E",
+    "timestamp": "2026-03-03 20:52:33",
+    "file": "exercicio_4.js",
+    "line": 3,
+    "column": 12
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-03 20:52:49",
+    "file": "exercicio_4.js",
+    "line": 6,
+    "column": 5
+  },
+  {
+    "keyword": "E",
+    "timestamp": "2026-03-03 20:52:52",
+    "file": "exercicio_4.js",
+    "line": 6,
+    "column": 12
+  }
+]
