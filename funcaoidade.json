@@ -1,0 +1,93 @@
+[
+  {
+    "keyword": "parseFloat",
+    "timestamp": "2026-03-26 22:27:32",
+    "file": "funcaoidade.js",
+    "line": 1,
+    "column": 11
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 22:28:16",
+    "file": "funcaoidade.js",
+    "line": 1,
+    "column": 22
+  },
+  {
+    "keyword": "function",
+    "timestamp": "2026-03-26 22:29:45",
+    "file": "funcaoidade.js",
+    "line": 1,
+    "column": 1
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 22:31:23",
+    "file": "funcaoidade.js",
+    "line": 4,
+    "column": 9
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 22:31:32",
+    "file": "funcaoidade.js",
+    "line": 4,
+    "column": 18
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-26 22:32:32",
+    "file": "funcaoidade.js",
+    "line": 5,
+    "column": 1
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-27 19:39:46",
+    "file": "funcaoidade.js",
+    "line": 5,
+    "column": 11
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-27 19:40:22",
+    "file": "funcaoidade.js",
+    "line": 5,
+    "column": 20
+  },
+  {
+    "keyword": "if",
+    "timestamp": "2026-03-27 19:41:29",
+    "file": "funcaoidade.js",
+    "line": 7,
+    "column": 1
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-27 19:44:57",
+    "file": "funcaoidade.js",
+    "line": 8,
+    "column": 5
+  },
+  {
+    "keyword": "else",
+    "timestamp": "2026-03-27 19:46:58",
+    "file": "funcaoidade.js",
+    "line": 9,
+    "column": 1
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-27 19:47:12",
+    "file": "funcaoidade.js",
+    "line": 10,
+    "column": 5
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-27 19:50:47",
+    "file": "funcaoidade.js",
+    "line": 6,
+    "column": 1
+  }
+]

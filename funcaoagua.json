@@ -1,0 +1,30 @@
+[
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-26 22:05:39",
+    "file": "funcaoagua.js",
+    "line": 1,
+    "column": 10
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 22:05:50",
+    "file": "funcaoagua.js",
+    "line": 1,
+    "column": 19
+  },
+  {
+    "keyword": "parseFloat",
+    "timestamp": "2026-03-26 22:22:20",
+    "file": "funcaoagua.js",
+    "line": 4,
+    "column": 10
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-26 22:22:33",
+    "file": "funcaoagua.js",
+    "line": 4,
+    "column": 21
+  }
+]

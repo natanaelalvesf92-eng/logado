@@ -1,0 +1,51 @@
+[
+  {
+    "keyword": "return",
+    "timestamp": "2026-03-27 20:19:18",
+    "file": "funcaofatorial.js",
+    "line": 6,
+    "column": 5
+  },
+  {
+    "keyword": "console",
+    "timestamp": "2026-03-27 20:19:44",
+    "file": "funcaofatorial.js",
+    "line": 7,
+    "column": 5
+  },
+  {
+    "keyword": "log",
+    "timestamp": "2026-03-27 20:19:50",
+    "file": "funcaofatorial.js",
+    "line": 7,
+    "column": 13
+  },
+  {
+    "keyword": "while",
+    "timestamp": "2026-03-27 20:33:52",
+    "file": "funcaofatorial.js",
+    "line": 3,
+    "column": 5
+  },
+  {
+    "keyword": "parseInt",
+    "timestamp": "2026-03-27 20:36:57",
+    "file": "funcaofatorial.js",
+    "line": 7,
+    "column": 16
+  },
+  {
+    "keyword": "prompt",
+    "timestamp": "2026-03-27 20:37:12",
+    "file": "funcaofatorial.js",
+    "line": 7,
+    "column": 25
+  },
+  {
+    "keyword": "alert",
+    "timestamp": "2026-03-27 20:37:51",
+    "file": "funcaofatorial.js",
+    "line": 8,
+    "column": 5
+  }
+]
